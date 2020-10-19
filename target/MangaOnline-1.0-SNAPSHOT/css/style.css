@@ -1,0 +1,15 @@
+
+header {
+    width: 100vw;
+}
+
+input[type=submit] {
+    background-color: #059bfc;
+    border: 2px solid #059bfc;
+}
+input[type=submit]:hover {
+    background-color: #076cae;
+    border: 2px solid #076cae;
+    color: white;
+    cursor: pointer;
+}
